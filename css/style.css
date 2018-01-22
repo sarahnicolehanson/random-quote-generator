@@ -1,0 +1,39 @@
+h1 {
+  padding: 10px;
+  font-family:'Passion One', cursive;
+  font-size:45px;
+
+  
+}
+p {
+  font-style:italic;
+  font-family:'helvetica';
+  color:lightblue;
+  font-size:30px;
+  
+
+ 
+}
+img {
+  padding:15px;
+}
+.quote {
+  color:teal; 
+  width: 33%;
+  margin-right:auto;
+  margin-left:auto;
+  padding:20px;
+  height:auto;
+  font-size:30px;
+}
+
+.author {
+  font-size:20px;
+  font-style:italic;
+  font-family:'helvetica';
+  width: 100%;
+  margin-right:auto;
+  margin-left:auto;
+  padding:20px;
+  height:auto;
+}
